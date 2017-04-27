@@ -1,6 +1,9 @@
 hi all.very gud morning.i am utmost happy.
+<<<<<<< HEAD
 i love sweets
 i love gulab jams
 i love jelabi
 
+=======
+>>>>>>> parent of 785a96f... sweets
 
