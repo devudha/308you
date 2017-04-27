@@ -1,8 +1,11 @@
 hi all.very gud morning.i am utmost happy.
 <<<<<<< HEAD
 i love sweets
+<<<<<<< HEAD
 i love gulab jams
 i love jelabi
+=======
+>>>>>>> parent of af3175d... gulb jams
 
 =======
 >>>>>>> parent of 785a96f... sweets
